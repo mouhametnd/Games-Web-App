@@ -43,7 +43,7 @@ This games web app was a good challenge to put in practice my skills in `React.j
 
 - On the first load, render a navbar to navigate to the different endpoints and set the filters, render the home page with a presental game which is gonna change every 15s and a infinite scroll of games.
 - Handle errors when fetching games, etc.  
-- An condicionaly render of some components depending on if the API return their content or not.
+- A condicionaly render of some components depending on if the API return their content or not.
 
 ## Preview of the App
 ![Design preview for the Rest Countries API page coding challenge](./preview.gif)
