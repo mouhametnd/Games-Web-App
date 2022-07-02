@@ -5,7 +5,7 @@ This games web app was a good challenge to put in practice my skills in `React.j
 ## Links
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
 - My email ahmetndiaye404@gmail.com
-- Live Project [ Github Dev Finder Web App](https://mouhametnd-games-app.netlify.app/)
+- Live Project [ Games Web App](https://mouhametnd-games-app.netlify.app/)
 
 ## Challenge  
 
@@ -32,7 +32,7 @@ This games web app was a good challenge to put in practice my skills in `React.j
 - Styled Components - CSS in JS library
 - axios - HTTP library for JS
 - LocalStorage - To save the games added to localStorage to render them again when the user refresh the page.
-- Some javascript new features like `intersection observer`.
+- Some javascript new features like intersection observer.
 - Mobile-first workflow
 - CSS Flexbox
 - CSS Grid

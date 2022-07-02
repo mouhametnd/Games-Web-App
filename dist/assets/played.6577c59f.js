@@ -1,1 +1,0 @@
-import{j as s,p as r}from"./index.cdcf1626.js";import{G as a}from"./GamesWrapper.b7ce1416.js";import{u as e}from"./useUserGames.49faa072.js";const{PLAYED:o}=r,f=()=>(e(o),s(a,{}));export{f as default};
