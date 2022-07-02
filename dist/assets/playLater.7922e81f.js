@@ -1,0 +1,1 @@
+import{j as r,o as s}from"./index.cdcf1626.js";import{G as a}from"./GamesWrapper.b7ce1416.js";import{u as o}from"./useUserGames.49faa072.js";const{PLAY_LATER:t}=s,i=()=>(o(t),r(a,{}));export{i as default};

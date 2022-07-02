@@ -1,0 +1,43 @@
+:root {
+  --primaryFont: 'Outfit', sans-serif;
+  --primaryBlack: #303841;
+  --secondaryBlack: #3a4750;
+  --primaryText: #fff;
+  --special: #4ecca3;
+}
+
+body {
+  background-color: var(--primaryBlack);
+  font-family: var(--primaryFont);
+  max-width: 2000px;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+@keyframes svgAnimation {
+  0% {
+    stroke-dashoffset: 90;
+  }
+  99% {
+    fill: transparent;
+  }
+  100% {
+    fill: var(--special);
+    stroke-dashoffset: 0;
+    stroke-dasharray: 100;
+  }
+}
+
+.button-icon--active path {
+  stroke-dasharray: 80;
+  stroke-dashoffset: 80;
+  animation: linear forwards 0.7s svgAnimation;
+}
+
+html .modal-open {
+  transform: translateX(0px);
+}
+
+html .select--hide {
+  display: none;
+}
