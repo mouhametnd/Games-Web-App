@@ -1,6 +1,6 @@
  # Welcome to the Games Web App! 🍃
 
-This game's web app was a good challenge to put into practice my skills in `React.js`, `Redux (toolkit)`, `React Router`, `Styled Components` and `Axios`. This project is using a game `API` called rawg.io. If you want to see a live version of the app, you can visit [this link](https://mouhametnd-games-app.netlify.app/). 
+This games web app was a good challenge to put into practice my skills in `React.js`, `Redux (toolkit)`, `React Router`, `Styled Components` and `Axios`. This project is using a game `API` called rawg.io. If you want to see a live version of the app, you can visit [this link](https://mouhametnd-games-app.netlify.app/). 
 
 
 
